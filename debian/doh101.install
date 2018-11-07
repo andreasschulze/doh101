@@ -1,0 +1,6 @@
+roles/doh101/files/base64url.lua usr/share/doh101/
+roles/doh101/files/doh.lua usr/share/doh101/
+
+debian/dns-query/base.lua usr/share/doh101/resty/core/
+debian/dns-query/doh101.conf etc/nginx/conf.d/
+debian/dns-query/dns-query.inc usr/share/doh101/
