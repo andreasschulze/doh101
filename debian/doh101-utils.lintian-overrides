@@ -1,2 +1,0 @@
-doh101-utils: binary-without-manpage usr/bin/doh-client
-doh101-utils: binary-without-manpage usr/bin/dot-client
